@@ -1,2 +1,21 @@
 Para poder passar style em um "id" = #cabecalho-um { -- }
-o id e importante para poder selecionar e passar estilo e pesquisar
+o id e importante para poder selecionar e passar estilo e pesquisar.
+<b>Deixar o texto em negrito</b>
+<strong>utilazamos para deixar um texto ou frase em negrito</strong>
+<i> italico </i>
+<em>enfase na frase </em>
+
+para link <a href="">link </a>
+ dentro da tag <a href="" target="_blank"></a> o target utilazado como iremos abrir o link
+ 
+ <img src="" alt=""> endereco da imagem e alt= o nome da imagem
+ podemos adicionar witch= "largura", e height ="Altura"
+para remover um frase ou palavra usamos    <del> </del>
+para inserir ou marca uma palavra ou texto <ins> </ins>
+utilazamos para fazer um tachado    <s></s>
+para sublinhar um texto <u></u>
+para deixar uma frases ou palavras com letras menores <small></small>
+para poder elevar um numero ou letra <sup></sup>
+caso queira colocar letras e numeros para baixo <sub></sub>
+Caso queria citar uma palavra ou frase <q></q>
+Bloco de citação    <blockquote cite="endereco url ou informaçao text"></blockquote>
